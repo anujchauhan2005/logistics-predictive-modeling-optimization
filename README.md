@@ -1,6 +1,6 @@
 # Logistics Predictive Modeling and Optimization
 
-## Week 4 Internship Task
+ 
 
 This project applies predictive modeling to a logistics problem: **predicting delivery time in minutes** and using the predictions to recommend operational optimization strategies.
 
